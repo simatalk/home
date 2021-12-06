@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Announcements
 
-You can use the [editor on GitHub](https://github.com/simatalk/actualweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The proxy is broken as of now. We are trying to fix it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [V.I.P. Chat](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiQUZET2c2aE1POTVzZzN4eUJkOWF5V21RRlpEN2RUNjB0ZTVvNE93TEJlTlViUUZIRnd0VnpOQkZxVDh2SXlRZUdsN25oSjdBZmF1elFXTy9SWVd4bWJjQ2t3PT0iLCJpIjoiU2NwZkc0dUZ6VDVBTTZ1RSJ9)
 
-### Markdown
+## Welcome to Simatalk
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This was made by Alexey Simakov so students could talk. When done typing name press "enter"
+to type message press your name.
 
-```markdown
-Syntax highlighted code block
+## [Games](https://simatalk.github.io/games)
 
-# Header 1
-## Header 2
-### Header 3
+## [Proxy](https://simatalk.github.io/unblockedweb)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Chat
 
-**Bold** and _Italic_ and `Code` text
+<div id="tlkio" data-channel="student-talk" data-theme="theme--minimal" style="width:100%;height:400;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
 
-[Link](url) and ![Image](src)
-```
+<iframe src="https://tlk.io/student-talk" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Games, For more games on this site click [here](https://simatalk.github.io/games)
+<iframe src="https://scratch.mit.edu/projects/318927435/embed" allowtransparency="true" width="400" height="402" frameborder="0" scrolling="no" align="left" allowfullscreen></iframe>
 
-### Jekyll Themes
+<iframe src="https://scratch.mit.edu/projects/148769358/embed" allowtransparency="true" width="400" height="402" frameborder="0" scrolling="no" align="right" allowfullscreen></iframe>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/simatalk/actualweb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
